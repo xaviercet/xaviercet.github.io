@@ -1,5 +1,17 @@
 <p align="center">
-  ![Xavier CET logo](/XCETlogo.png)
+  <img width="200" src="/XCETlogo.png" alt="Xavier CET logo">
+</p>
+
+Material Bread Readme Centered Logo
+Also, check out the live example.
+
+Align Text Defined As HTML Already
+If your text is already defined in your markdown as an HTML tag, then you can add the align attribute directly on the HTML tag itself.
+
+html
+Copy
+<h1 align="center">Material Bread</h1>
+
 </p>
 
 # Acceptable Usage Policy for Visitor Wifi
