@@ -1,4 +1,4 @@
-# Acceptable Usage Policy for Visitor Wifi v0.1
+# Acceptable Usage Policy for Visitor Wifi
 Welcome! We're happy to offer you complimentary Wi-Fi access during your visit. To ensure a safe and enjoyable experience for everyone, please take a moment to review these Acceptable Use Policy (AUP) guidelines:
 
 ## Respectful Use:
