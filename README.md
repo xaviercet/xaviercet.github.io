@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="200" src="/XCETlogo.png" alt="Xavier CET logo">
+  <img width="100" src="/XCETlogo.png" alt="Xavier CET logo">
 </p>
 
 Material Bread Readme Centered Logo
