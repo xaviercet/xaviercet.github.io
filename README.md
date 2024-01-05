@@ -30,9 +30,8 @@ Thank you for your understanding!
 <a class="btn" href="https://google.co.uk/">
       Proceed to Google
 </a>
-
-<button type="button" onclick=""location.href = 'https://google.co.uk'">Proceed to Google...</button>
-
 </p>
 
-
+<p align="center">
+<button type="button" onclick="location.href = 'https://google.co.uk';">Proceed to Google...</button>
+</p>
