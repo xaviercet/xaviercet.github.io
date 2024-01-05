@@ -5,8 +5,6 @@
 # Acceptable Usage Policy for Visitor Wifi
 Welcome! We're happy to offer you complimentary Wi-Fi access during your visit. To ensure a safe and enjoyable experience for everyone, please take a moment to review these Acceptable Use Policy (AUP) guidelines:
 
-
-
 ## Respectful Use:
 - Treat others online with the same courtesy and respect you would show in person.
 - Avoid offensive, discriminatory, or harassing language or behaviour.
@@ -28,9 +26,8 @@ Welcome! We're happy to offer you complimentary Wi-Fi access during your visit. 
 
 Thank you for your understanding!
 
+<p align="center">
 <a class="btn" href="https://google.co.uk/">
-      Go to Google
+      Proceed to Google
 </a>
-
-
-<button type="button" onclick="alert('Hello world!')">Click Me!</button>
+</p>
