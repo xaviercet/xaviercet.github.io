@@ -1,5 +1,5 @@
 <p align="center">
-![Xavier CET logo](/XCETlogo.png)
+  ![Xavier CET logo](/XCETlogo.png)
 </p>
 
 # Acceptable Usage Policy for Visitor Wifi
