@@ -24,13 +24,9 @@ Welcome! We're happy to offer you complimentary Wi-Fi access during your visit. 
 ## Consequences:
 - Violations of this AUP may result in temporary or permanent suspension of your Wi-Fi access, or further action as deemed necessary. We appreciate your cooperation in maintaining a positive and productive online environment for everyone.
 
+
 Thank you for your understanding!
 
-<p align="center">
-<a class="btn" href="https://google.co.uk/">
-      Proceed to Google
-</a>
-</p>
 
 <p align="center">
 <button type="button" onclick="location.href = 'https://google.co.uk';">Proceed to Google...</button>
