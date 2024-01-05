@@ -32,3 +32,5 @@ Thank you for your understanding!
       Go to Google
 </a>
 
+
+<button type="button" onclick="alert('Hello world!')">Click Me!</button>
