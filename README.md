@@ -2,18 +2,6 @@
   <img width="100" src="/XCETlogo.png" alt="Xavier CET logo">
 </p>
 
-Material Bread Readme Centered Logo
-Also, check out the live example.
-
-Align Text Defined As HTML Already
-If your text is already defined in your markdown as an HTML tag, then you can add the align attribute directly on the HTML tag itself.
-
-html
-Copy
-<h1 align="center">Material Bread</h1>
-
-</p>
-
 # Acceptable Usage Policy for Visitor Wifi
 Welcome! We're happy to offer you complimentary Wi-Fi access during your visit. To ensure a safe and enjoyable experience for everyone, please take a moment to review these Acceptable Use Policy (AUP) guidelines:
 
