@@ -11,7 +11,8 @@ We're happy to offer you complimentary Wi-Fi access during your visit. To ensure
 - Do not invade the privacy of others, including accessing unauthorized information or systems.
 
 ## Responsible Activities:
-- Use the Wi-Fi for lawful purposes only.
+- Use of the Wi-Fi is for lawful purposes only.
+- Use of the Wi-Fi is only for accessing websites that are appropriate for school use
 - Downloading or sharing copyrighted material without permission is strictly prohibited.
 - Avoid activities that could harm network security or performance, such as hacking or installing unauthorized software.
 - Streaming or downloading large files may impact bandwidth for others, so please be mindful of your usage.
@@ -20,6 +21,7 @@ We're happy to offer you complimentary Wi-Fi access during your visit. To ensure
 - Protect your own devices and information by using strong passwords and keeping software up to date.
 - Be cautious about clicking on links or downloading files from unknown sources.
 - Report any suspicious activity or security concerns immediately to our staff.
+- Please be aware that when using the Wi-Fi, the sites you visit will be logged for safeguarding and security purposes.
 
 ## Consequences:
 - Violations of this AUP may result in temporary or permanent suspension of your Wi-Fi access, or further action as deemed necessary. We appreciate your cooperation in maintaining a positive and productive online environment for everyone.
